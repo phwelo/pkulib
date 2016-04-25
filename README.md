@@ -16,12 +16,4 @@ $avggrams = average (steak,metricfood,soda,moersoda)
 $foodphe = phecalc(100)
 $fruitphe = phecalc(5,"fruit")
 $vegetablephe = phecalc(20,"veg")
-
-## usage
-### average
-### oz2gram
-### mg2gram
-### floz2ml
-### litre2ml
-### average
-### procalc
+```
