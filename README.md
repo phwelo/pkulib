@@ -5,11 +5,12 @@ Ruby Library for calculating phe content in food and converting the relating wei
 <code>$ gem install pkulib</code>
 
 ## Example
-<code>require 'pkulib'
+```Ruby
+require 'pkulib'
 hopefully another line
 and another line
 
-</code>
+```
 
 ## usage
 ### average
