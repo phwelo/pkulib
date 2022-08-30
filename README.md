@@ -8,7 +8,7 @@ Ruby Library for calculating phe content in food and converting the relating wei
 
 ## Available methods
 * oz2gram
-* mg22gram
+* mg2gram
 * floz2ml
 * litre2ml
 * average
